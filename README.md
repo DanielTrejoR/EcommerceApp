@@ -6,6 +6,7 @@
     <a href="https://twitter.com/intent/follow?screen_name=bagistoshop"><img src="https://img.shields.io/twitter/follow/bagistoshop?style=social"></a>
     <a href="https://www.youtube.com/channel/UCbrfqnhyiDv-bb9QuZtonYQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCbrfqnhyiDv-bb9QuZtonYQ?style=social"></a>
 </p>
+# Este es un fix a los problemas encontrados en la acutal bagisto mobile app (provisional)
 
 # Open Source eCommerce Mobile App
 
